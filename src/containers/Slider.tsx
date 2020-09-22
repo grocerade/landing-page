@@ -29,21 +29,21 @@ const SLIDE_CONTENT: SLIDE_CONTENT_TYPE = {
     },
     2: {
       title:
-        "Create a purchase order and forget about paying each supplier separately. ",
+        "Create a purchase order and forget about paying each supplier separately",
       image: Image1_2,
     },
     3: {
-      title: "Send and receive messages from all your suppliers in one place.",
+      title: "Send and receive messages from all your suppliers in one place",
       image: Image1_3,
     },
     4: {
-      title: "Get notified of special offers from the region.",
+      title: "Get notified of special offers from the region",
       image: Image1_4,
     },
   },
   2: {
     1: {
-      title: "Sell your products to the city’s restaurants directly ",
+      title: "Sell your products to the city’s restaurants directly",
       image: Image2_1,
     },
     2: { title: "Manage all outstanding orders in one place", image: Image2_2 },

@@ -4,10 +4,10 @@ import * as React from "react";
 
 import { SliderItemType } from "../types";
 
-import Image1_1 from "../assets/Orders-iphone.png";
-import Image1_2 from "../assets/Payments-iphone.png";
-import Image1_3 from "../assets/Chat-iphone.png";
-import Image1_4 from "../assets/Offers-iphone.png";
+import Image1_1 from "../assets/R - Orders - iPhone.png";
+import Image1_2 from "../assets/R - Payment - iPhone.png";
+import Image1_3 from "../assets/R - Chat - iPhone.png";
+import Image1_4 from "../assets/R - Offers - iPhone.png";
 
 import Image2_1 from "../assets/F - Clients - iPhone.png";
 import Image2_2 from "../assets/F - Orders - iPhone.png";
